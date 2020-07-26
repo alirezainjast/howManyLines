@@ -9,3 +9,5 @@ cd howManyLines
 chmod +x howManyLines.sh
 ./howManyLines.sh /home/USER/PATH/TO/FOLDER
 ```
+### Tip
+remove libraries and other stuff to get more real data
