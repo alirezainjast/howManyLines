@@ -25,4 +25,5 @@ parse_dir () {
 
 parse_dir "$1"
 
-echo $LINE_COUNT
+echo "you wrote \"${LINE_COUNT}\" line"
+echo "greate job ;)"
